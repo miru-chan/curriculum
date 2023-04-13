@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+@media screen and (max-width: 479px) {
+
+  .header {
+    width: 200px;
+    height: 200px;
+  }
+
+  .menus {
+    flex-direction: column;
+    left: 70px;
+  }
+
+  .main {
+    display: block;
+  }
+
+  .left {
+    width: 200px;
+  }
+
+  .right {
+    width: 200px;
+    height: 200px;
+  }
+
+  .items {
+    top: 20px;
+    left: 30px;
+  }
+
+  .footer {
+    width: 200px;
+  }
+
+}
